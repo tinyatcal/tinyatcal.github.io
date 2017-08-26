@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grid Side</title>
+    <title>TNiY @ Cal</title>
     <link>https://tinyatcal.github.io/</link>
-    <description>Recent content on Grid Side</description>
+    <description>Recent content on TNiY @ Cal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Your Name</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 22:32:44 -0700</lastBuildDate>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Tue, 15 Aug 2017 22:25:02 -0700</lastBuildDate>
     
 	<atom:link href="https://tinyatcal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Index</title>
-      <link>https://tinyatcal.github.io/</link>
-      <pubDate>Wed, 23 Aug 2017 22:32:44 -0700</pubDate>
+      <title>三番往事</title>
+      <link>https://tinyatcal.github.io/gallery/%E4%B8%89%E7%95%AA%E5%BE%80%E4%BA%8B/</link>
+      <pubDate>Tue, 15 Aug 2017 22:25:02 -0700</pubDate>
       
-      <guid>https://tinyatcal.github.io/</guid>
-      <description>Hello</description>
+      <guid>https://tinyatcal.github.io/gallery/%E4%B8%89%E7%95%AA%E5%BE%80%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>驴得水</title>
+      <link>https://tinyatcal.github.io/gallery/%E9%A9%B4%E5%BE%97%E6%B0%B4/</link>
+      <pubDate>Wed, 10 May 2017 21:35:17 -0700</pubDate>
+      
+      <guid>https://tinyatcal.github.io/gallery/%E9%A9%B4%E5%BE%97%E6%B0%B4/</guid>
+      <description></description>
     </item>
     
   </channel>
