@@ -3,7 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tinyatcal.github.io/activities/24hr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/activities/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/activities/anniversary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/structure/board/</loc>
+  </url>
+  
+  <url>
     <loc>https://tinyatcal.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/structure/committees/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/faq/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/faq/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/faq/join/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/structure/</loc>
     <priority>0</priority>
   </url>
   
@@ -16,6 +55,14 @@
   <url>
     <loc>https://tinyatcal.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/activities/workshops/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinyatcal.github.io/faq/%E5%A4%A7%E6%88%8F/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faqs on TNiY @ Cal</title>
+    <link>https://tinyatcal.github.io/faq/</link>
+    <description>Recent content in Faqs on TNiY @ Cal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    
+	<atom:link href="https://tinyatcal.github.io/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://tinyatcal.github.io/faq/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tinyatcal.github.io/faq/faq/</guid>
+      <description>Why T.I.n.Y? T.I.n.Y is the short form of Talent In You. We wish to explore the talent of all TINYers.
+Does TINY only need actors? No. Drama production process actually needs people have various capabilities. You would definitely find your place in TINY if you have any of the talents or want to train your abilities below. Scriptwriting, directing, movie-editing, marketing, networking, event-organizing, music, web-management and design, photography and photoshop.</description>
+    </item>
+    
+    <item>
+      <title>Join Us (Fall 2017)</title>
+      <link>https://tinyatcal.github.io/faq/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tinyatcal.github.io/faq/join/</guid>
+      <description>招新报名表</description>
+    </item>
+    
+    <item>
+      <title>报名大戏 (Fall 2017)</title>
+      <link>https://tinyatcal.github.io/faq/%E5%A4%A7%E6%88%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tinyatcal.github.io/faq/%E5%A4%A7%E6%88%8F/</guid>
+      <description>戳下方微信链接！ 这里啦～</description>
+    </item>
+    
+  </channel>
+</rss>

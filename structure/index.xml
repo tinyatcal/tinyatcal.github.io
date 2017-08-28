@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structures on TNiY @ Cal</title>
+    <link>https://tinyatcal.github.io/structure/</link>
+    <description>Recent content in Structures on TNiY @ Cal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    
+	<atom:link href="https://tinyatcal.github.io/structure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Board Members</title>
+      <link>https://tinyatcal.github.io/structure/board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tinyatcal.github.io/structure/board/</guid>
+      <description> T.N.i.Y. Board President: 李泽霖 James Treasurer: 刘天阳 Anastasia Vice President of Marketing Committee: 杜雨馨 Victoria Vice President of Production Committee: 封越 &amp;amp; 康笑妍 Vice President of Outreach Committee: 杨嘉铭 Sharon Vice President of Logistics Committee: 周逸之 Zephyr </description>
+    </item>
+    
+    <item>
+      <title>Committees</title>
+      <link>https://tinyatcal.github.io/structure/committees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tinyatcal.github.io/structure/committees/</guid>
+      <description> T.N.i.Y. Committees Logistics Outreach Production Marketing </description>
+    </item>
+    
+  </channel>
+</rss>

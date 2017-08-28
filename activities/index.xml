@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on TNiY @ Cal</title>
+    <link>https://tinyatcal.github.io/activities/</link>
+    <description>Recent content in Activities on TNiY @ Cal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    
+	<atom:link href="https://tinyatcal.github.io/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>24小时剧院</title>
+      <link>https://tinyatcal.github.io/activities/24hr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tinyatcal.github.io/activities/24hr/</guid>
+      <description>24小时，编剧、排练、演出。 挑战你的极限。 详情请见推送。</description>
+    </item>
+    
+    <item>
+      <title>Anniversary</title>
+      <link>https://tinyatcal.github.io/activities/anniversary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tinyatcal.github.io/activities/anniversary/</guid>
+      <description>T.N.i.Y 周年庆！ 详情见推送</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://tinyatcal.github.io/activities/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tinyatcal.github.io/activities/workshops/</guid>
+      <description>T.N.i.Y 为你带来的专业Workshop。 提升你的技巧。 只给用心的你。</description>
+    </item>
+    
+  </channel>
+</rss>
