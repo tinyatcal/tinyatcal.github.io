@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>true</copyright>
-    <lastBuildDate>Mon, 15 May 2017 22:25:02 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Aug 2017 10:49:51 -0700</lastBuildDate>
     
 	<atom:link href="https://tinyatcal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://tinyatcal.github.io/about/</link>
+      <pubDate>Sat, 26 Aug 2017 10:49:51 -0700</pubDate>
+      
+      <guid>https://tinyatcal.github.io/about/</guid>
+      <description>什么是 T.I.n.Y？ T.I.n.Y 的成立来自于一群志同道合，热爱戏剧和表演的伯克利学生。自从2014年的最初创立，我们致力于专业话剧制作和表演，从演出开心麻花的力作“乌龙山伯爵”，到自创的24小时戏院，再到自创大戏“三藩往事”，每一个T.I.n.Y 的成员不仅有戏剧浓厚的热爱，更希望以这样的方式传播中国久远的戏剧表演艺术文化和历史。在这里，你不仅可以找到家一般的温暖，更能有机会实现自己表演的梦想。加入T.I.n.Y, 你也可以是主角！</description>
+    </item>
     
     <item>
       <title>暗恋桃花源</title>
